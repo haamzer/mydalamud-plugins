@@ -7,7 +7,7 @@
         "DownloadLinkInstall": "https://github.com/haamzer/AutoPot/releases/latest/download/AutoPot.zip",
         "DownloadLinkTesting": null,
         "DownloadLinkUpdate": "https://github.com/haamzer/AutoPot/releases/latest/download/AutoPot.zip",
-        "Author": "Yassine",
+        "Author": "Hamza",
         "Description": "Automatically swaps hotbar potions based on duty type.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/haamzer/AutoPot",
