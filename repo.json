@@ -7,11 +7,12 @@
         "DownloadLinkInstall": "https://github.com/haamzer/AutoPot/releases/latest/download/AutoPot.zip",
         "DownloadLinkTesting": null,
         "DownloadLinkUpdate": "https://github.com/haamzer/AutoPot/releases/latest/download/AutoPot.zip",
-        "Author": "Hamzer",
+        "Author": "Yassine",
         "Description": "Automatically swaps hotbar potions based on duty type.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/haamzer/AutoPot",
         "Tags": ["utility"],
-        "DalamudApiLevel": 14
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/haamzer/AutoPot/main/icon.png"
     }
 ]
