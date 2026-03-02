@@ -2,7 +2,7 @@
     {
         "Name": "AutoPot",
         "InternalName": "AutoPot",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "TestingAssemblyVersion": null,
         "DownloadLinkInstall": "https://github.com/haamzer/AutoPot/releases/latest/download/AutoPot.zip",
         "DownloadLinkTesting": null,
